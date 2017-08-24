@@ -1,1 +1,6 @@
 c:\users\buddhika\documents\visual studio 2013\Projects\Reflection\Reflection\bin\Debug\Reflection.exe.config
+c:\users\buddhika\documents\visual studio 2013\Projects\Reflection\Reflection\bin\Debug\Reflection.exe
+c:\users\buddhika\documents\visual studio 2013\Projects\Reflection\Reflection\bin\Debug\Reflection.pdb
+c:\users\buddhika\documents\visual studio 2013\Projects\Reflection\Reflection\obj\Debug\Reflection.csprojResolveAssemblyReference.cache
+c:\users\buddhika\documents\visual studio 2013\Projects\Reflection\Reflection\obj\Debug\Reflection.exe
+c:\users\buddhika\documents\visual studio 2013\Projects\Reflection\Reflection\obj\Debug\Reflection.pdb
